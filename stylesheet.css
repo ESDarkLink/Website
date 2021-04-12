@@ -81,6 +81,23 @@ hr{
 	margin-top: 0px;
 	padding-top: 0px;
 	border-top: 1px dotted;
+	clear: both;
+}
+/*
+	got the clear attribute from this link:
+	https://www.w3schools.com/cssref/pr_class_clear.asp
+*/
+
+.headshot{
+	border: 4px solid #2e1278;
+	border-radius: 25%;
+	
+}
+
+.project{
+	border: 4px solid #2e1278;
+	border-radius: 8%;
+	margin: 5px;
 }
 
 .column{
