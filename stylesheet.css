@@ -5,6 +5,7 @@ body{
 	margin-left: 9%;
 	margin-right: 9%;
 	font-family: franklin gothic;
+	padding-bottom : 40px;
 }
 
 nav ul {
@@ -37,7 +38,7 @@ li a:hover {
 	background-color: ;
 }*/
 h1{
-	font-size:35px;
+	font-size:45px;
 	font-family: Verdana;
 	color: #2e1278;
 }
@@ -51,17 +52,17 @@ h2{
 }
 
 h3{
-	font-size: 18px;
+	font-size: 19px;
 	margin-bottom: 0;
 	padding-bottom: 0;
 	margin-top: 0;
 	padding-top: 0;
-	font-family: Verdana;
+	font-family: 'Lato', sans-serif;
 	
 }
 
 h4{
-	font-size: 15px;
+	font-size: 14px;
 	margin-bottom: 0;
 	padding-bottom: 0;
 	margin-top: 0;
@@ -77,6 +78,8 @@ p{
 }
 
 hr{
+	margin-top: 0px;
+	padding-top: 0px;
 	border-top: 1px dotted;
 }
 
@@ -132,4 +135,11 @@ hr{
 
 .special:hover{
 	color: #4169e1;
+}
+
+.joined{
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
 }
